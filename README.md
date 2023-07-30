@@ -18,7 +18,7 @@
 
 ## Data Visualization Projects
 ### Tablaue
-Airbnb 2016
+[Airbnb 2016]
 https://public.tableau.com/views/Airbnb_Seattle_2016/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Skills
