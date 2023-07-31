@@ -21,9 +21,9 @@ https://github.com/JomPinto/Portfolio.git
 
 ## Data Visualization Projects
 ### Tablaue
-Airbnb 2016:
+-Airbnb 2016:
 https://public.tableau.com/views/Airbnb_Seattle_2016/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-King County House Prices: https://public.tableau.com/views/KingCounty_HousePrice_2014-2015/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+-King County House Prices: https://public.tableau.com/views/KingCounty_HousePrice_2014-2015/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 ## Skills
 
