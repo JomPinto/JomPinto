@@ -16,6 +16,9 @@
 - Statistics
 - Artificial Intelligence
 
+## Data Exploration and Database Projects
+https://github.com/JomPinto/Portfolio.git
+
 ## Data Visualization Projects
 ### Tablaue
 Airbnb 2016:
